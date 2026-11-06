@@ -8,7 +8,17 @@
       "display": "02:00",
       "category": "short",
       "description": "这是了了了岭工作室的旧版介绍视频，仅供存档展示。",
-      "url": "https://drive0.leleleling.surge.sh/LelelelingStudio‘svideo-old.mp4"
+      "url": "https://drive0.leleleling.surge.sh/LelelelingStudio-video-old.mp4"
+    },
+    {
+      "id": 2,
+      "title": "测试音频：农场配乐",
+      "type": "audio",
+      "duration": 190,
+      "display": "03:10",
+      "category": "3",
+      "description": "这是一段测试用的奇妙音乐，用于验证音频播放功能是否正常。",
+      "url": "https://drive0.leleleling.surge.sh/testingaudio1.mp3"
     }
   ]
 }
